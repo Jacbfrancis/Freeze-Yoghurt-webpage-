@@ -1,0 +1,111 @@
+
+*{
+    margin: 0
+}
+
+.top{
+    background-color: #EED1E4;
+    width: 100%;
+    height: 400px;
+}
+
+.logo{
+    margin: 112px auto 112px 225px;
+    height: 125px;
+}
+
+.background{
+    width: 100%;
+}
+
+.middle{
+    background-color: #EED1E4;
+    margin-top: -4px;
+    width: 100%;
+    height: 1200px;
+    position: relative;
+}
+
+.new{
+    font-size: 2.5rem;
+    color: #7A6666;
+    font-weight: bolder;
+    position: absolute;
+    top: 80px;
+    left: 100px;
+    font-family: 'san-serif';
+}
+
+.heading{
+    width: 75%;
+    left: 100px;
+    color: #E32861;
+    font-size: 4rem;
+    position: absolute;
+    top: 150px;
+    font-family: 'san-serif';
+}
+
+.info{
+    position: absolute;
+    top: 350px;
+    width: 75%;
+    left: 100px;
+    text-align: left;
+    font-size: 1.8rem;
+    line-height: 1.9;
+}
+
+.yoghurt{
+    position: absolute;
+    top: 750px;
+    left: 150px;
+    height: 450px;
+}
+
+.service{
+    padding-top: 100px;
+    background-color: #FAEDF2;
+    width: 100%;
+    height: 1250px;
+    margin-top: 0px;
+}
+
+.icon{
+    margin: 0px auto 25px auto;
+    width: 12%;
+    display: block;
+}
+
+.img-txt{
+    font-size: 2.5rem;
+    color: #E32861;
+    font-weight: bolder;
+    font-family: 'san-serif';
+    text-align: center;
+    margin: 0px auto 125px auto;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.contact{
+    width: 100%;
+    height: 300px;
+    background-color: #e32861;
+    text-align: center;
+}
+
+.social{
+    margin: 70px 30px 0 30px;
+    width: 7%;
+}
+
+.copy{
+    font-size: 1.7rem;
+    color: #ffffff;
+    font-family: 'san-serif';
+    text-align: center;
+    margin: 50px auto auto auto;
+}
