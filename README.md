@@ -24,7 +24,7 @@ Home page for fictional Yoghurt Restaurant, Created with HTML and CSS.
 
 ### Links
 
-- Live Site URL:(https://jacbfrancis.github.io/Freeze-Yoghurt-webpage-/)
+- Live Site URL:[Live site URL] (https://jacbfrancis.github.io/Freeze-Yoghurt-webpage-/)
 
 ## My process
 
