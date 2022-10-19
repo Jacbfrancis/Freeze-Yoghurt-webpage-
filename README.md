@@ -1,6 +1,6 @@
 # Freeze Yoghurt project
 
-Home page for fictional Yoghurt Restaurant, Created with HTML and CSS. (Page is not responsive, haven't learnt responsive layout yet 😅)
+Home page for fictional Yoghurt Restaurant, Created with HTML and CSS.
 
 
 ## Table of contents
@@ -24,7 +24,7 @@ Home page for fictional Yoghurt Restaurant, Created with HTML and CSS. (Page is 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://jacbfrancis.github.io/Freeze-Yoghurt-webpage-/)
 
 ## My process
 
