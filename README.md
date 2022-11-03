@@ -1,4 +1,4 @@
-# Freeze Yoghurt project
+# Freeeze Yoghurt project
 
 Home page for fictional Yoghurt Restaurant, Created with HTML and CSS.
 
