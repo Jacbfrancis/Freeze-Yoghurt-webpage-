@@ -61,6 +61,7 @@ middle{
 
 - Building responsive layouts.
 - Learn CSS Flexbox.
+- Learn Media queries.
 
 ### Useful resources
 
