@@ -32,6 +32,7 @@ Home page for fictional Yoghurt Restaurant, Created with HTML and CSS.
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Media Queries 
 
 ### What I learned
 
