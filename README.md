@@ -6,7 +6,6 @@ Home page for fictional Yoghurt Restaurant, Created with HTML and CSS.
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -17,10 +16,6 @@ Home page for fictional Yoghurt Restaurant, Created with HTML and CSS.
 
 
 ## Overview
-
-### Screenshot
-
-![](screenshot.png)
 
 ### Links
 
